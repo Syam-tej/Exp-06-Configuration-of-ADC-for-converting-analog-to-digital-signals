@@ -229,13 +229,5 @@ Figure -09 graph between % of pot(1Kohm) values and ADC
 
 ![22](https://user-images.githubusercontent.com/93427224/200112828-7f04aaa8-8913-44b9-997c-fd2346645066.png)
 
-Result :
+### Result :
 Configuring an ADC and the input values are displayed on LCD screen 
-
-Output screen shots :
-
-
-
-
-
-
